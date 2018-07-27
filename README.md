@@ -1,5 +1,5 @@
 # HomeAssignment1
-First home assignment for Advanced Programming course.
+First home assignment for Advanced Programming course at the Master's Program in Data Science at UCU.
 
 ## Task 1 - Never Use SWITCH
 Find the alternative for SWITCH
